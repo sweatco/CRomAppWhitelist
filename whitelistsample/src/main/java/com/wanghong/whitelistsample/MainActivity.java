@@ -17,7 +17,7 @@
 package com.wanghong.whitelistsample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
 import com.wanghong.cromappwhitelist.AppWhitelist;

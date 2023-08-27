@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CRomAppWhitelist.iml" filepath="$PROJECT_DIR$/.idea/modules/CRomAppWhitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.iml" filepath="$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cromappwhitelist/CRomAppWhitelist.cromappwhitelist.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.iml" filepath="$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/whitelistsample/CRomAppWhitelist.whitelistsample.unitTest.iml" />
+    </modules>
+  </component>
+</project>

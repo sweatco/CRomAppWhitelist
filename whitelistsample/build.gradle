@@ -17,16 +17,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.wanghong.whitelistsample"
         minSdkVersion 14
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
-
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
     buildTypes {
@@ -39,11 +37,6 @@ android {
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    })
-    implementation 'com.android.support:appcompat-v7:28.0.0'
-    implementation 'io.github.wanghonglin:crom-app-whitelist:0.1.2'
-    testImplementation 'junit:junit:4.13.2'
-    // implementation project(':cromappwhitelist')
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation project(':cromappwhitelist')
 }
